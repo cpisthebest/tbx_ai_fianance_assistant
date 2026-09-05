@@ -3,7 +3,6 @@ from flashrank import (
     RerankRequest,
 )
 
-
 ranker = Ranker()
 
 

@@ -20,7 +20,7 @@ available_balance DECIMAL(15,2)
 bank_code VARCHAR(10)
 
 
-TABLE transactions:
+TABLE transaction:
 
 transaction_id VARCHAR(36)
 account_id VARCHAR(36)

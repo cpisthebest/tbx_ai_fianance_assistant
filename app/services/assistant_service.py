@@ -73,16 +73,16 @@ async def ask_assistant(
 
             query_embedding,
 
-            limit=30,
+            limit=4,
         )
-
+        print("candidates ->",candidates)
         semantic_results = rerank(
 
             search_query,
 
             candidates,
 
-            top_k=10,
+            top_k=2,
         )
 
     # =================================================
