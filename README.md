@@ -1,4 +1,4 @@
-# Technology
+## Technology
 
 Python, FASTAPI, PostgreSQL, pgvector, Ollama, FlashRank
 
