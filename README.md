@@ -1,3 +1,8 @@
+# Technology
+
+Python, FASTAPI, PostgreSQL, pgvector, Ollama, FlashRank
+
+## Execution Steps
 
 Generate embeddings - python -m app.services.index_service
 
